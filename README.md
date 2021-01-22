@@ -18,4 +18,3 @@ where IP address is your IP address
 messages entered into the client terminal will echo  
 in the server terminal and return the message  
 
-TCP socket 
